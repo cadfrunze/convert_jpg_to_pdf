@@ -1,5 +1,10 @@
 import img2pdf
 
+"""
+Convertirea fisierelor .jpg in .pdf
+"""
+
+
 
 fisiere_jpg: list[str] = ["adev_master.jpg", "diploma_licenta.jpg"]
 
